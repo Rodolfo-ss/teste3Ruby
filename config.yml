@@ -1,0 +1,19 @@
+name: 
+  length: 30
+  align: left
+  padding: ' '
+
+cpf: 
+  length: 15
+  align: right
+  padding: '0'
+
+state: 
+  lenght: 20
+  align: left
+  padding: ' '
+
+value: 
+  length: 5
+  align: right
+  padding: '0'  
